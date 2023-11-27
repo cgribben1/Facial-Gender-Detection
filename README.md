@@ -35,3 +35,9 @@ Thus, the three models investigated in this project are summarised below:
 <br>
 
 - **"VGGFace":** Architecture = VGG16, Weights = VGGFace
+
+---
+
+The **full project report** is provided here in both **.html** and **.ipynb** format.
+
+N.B. you will have to open the .ipynb file in a Jupyter notebook to make use of the section links within the ToC...
